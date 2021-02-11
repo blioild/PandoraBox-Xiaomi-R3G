@@ -2,7 +2,7 @@
 ### 源固件地址：[点我下载](http://downloads.pangubox.com:6380/pandorabox/19.02/targets/ralink/mt7621/PandoraBox-ralink-mt7621-xiaomi-r3g-2019-02-01-git-0231ad4b5-squashfs-sysupgrade.bin) ###
 ### 此固件地址：[点我下载](https://raw.githubusercontent.com/blioild/PandoraBox-Xiaomi-R3G/main/PandoraBox-ralink-mt7621-xiaomi-r3g-2019-02-01-git-0231ad4b5-squashfs-sysupgrade.bin) ###
 
-### 此固件使用 PandoraBox 官网上的 Imagebuilder 和 SDK 生成编辑生成。除了第三方插件外，其他地方与源固件并没有太大区别。 ###
+### 此固件使用 PandoraBox 官网上的 Imagebuilder 和 SDK 编辑生成。除了第三方插件外，其他地方与源固件并没有太大区别。 ###
 
 # 此固件的一些说明：
 
